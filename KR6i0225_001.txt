@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:23.309153
+#+DATE: 2015-08-30 20:13:24.487086
 #+TITLE: 天請問經
 #+PROPERTY: CBETA_ID T15n0592
 #+PROPERTY: ID KR6i0225
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 592
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0225_T_000-0124b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0225_T_001-0124b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.592¶
-
- 《天請問經》¶
+No. 592¶
+《天請問經》¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
